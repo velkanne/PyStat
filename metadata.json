@@ -1,0 +1,5 @@
+{
+  "name": "StatPy Visualizer",
+  "description": "A professional statistical analysis dashboard simulating a Python environment with React, Tailwind, and Recharts.",
+  "requestFramePermissions": []
+}
